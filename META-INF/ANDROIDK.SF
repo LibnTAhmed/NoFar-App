@@ -1,0 +1,71 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: uNlglXJLiVVGoJ+MjCEEUvVTTJg=
+Created-By: 1.7.0_80 (Oracle Corporation)
+SHA1-Digest-Manifest: saG4W5JfFTcj+kzFSOTbBXb4Qvg=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: 56Ts+OXIkG/Xl26FId4MhAW3UlY=
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: 7v5VWlm+zKI0JIumKr+0BikYn0M=
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: 9j0qoTwbQ/wYBAWpKHx2MiQuI3w=
+
+Name: res/layout/basic_map.xml
+SHA1-Digest: hFWLNGC1Xfgql1rDAFKwSfOvuHk=
+
+Name: res/drawable/ya.png
+SHA1-Digest: b13T73GbF5EJXxMqq1x4c45Bu6g=
+
+Name: assets/Thunkable-Roboto-Thin.ttf
+SHA1-Digest: VFhPy7VEH/b47QTaEjohwicPf/I=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: LK8nToECpN24UX1VnRnYx8S1mbs=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: uMe6j1bg4YK5Z9vG6Es/habc8YY=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: wXbwI6pbzyGIfpYxPm35PXfXF5Q=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: MDR1g4BXOqBPsUVwdZV16GMLVXk=
+
+Name: resources.arsc
+SHA1-Digest: Pxi1G1SSTr5kuz7YfHCqwmsZ8UY=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: S8d8PwU7EgJwbI/vPICgDQ8Qj24=
+
+Name: classes.dex
+SHA1-Digest: KAKFp5f0jg706qUBqr9f1LvfaIg=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: ta7cuxRPQe+f2ylrtAJ/txj/Nr0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: EqOzSuLXxXPzjCp5bqgKWjlYIi8=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: WCKbTlg3B/L4e5oypQmjnKUscxs=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: cBg/86/qJ87VsihqgI50FL39nSk=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: ITyKCN0NXHxBMT1mKT+PT6RM4+I=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: GlQssZxfKcDnxqWyCGco5l8uYBo=
+
+Name: res/anim/hold.xml
+SHA1-Digest: G0kbhOrlO4ARQW6bk9Mu84FgRKI=
+
+Name: assets/Thunkable-Roboto-Regular.ttf
+SHA1-Digest: iV/Eh2kV1DhIma8u9qYizToFnnA=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: NZ1Z09+4tSOCflHF8M0k1xoQhDw=
+
