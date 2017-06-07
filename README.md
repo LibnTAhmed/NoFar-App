@@ -1,5 +1,6 @@
 
 # NoFar-App
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 #Prerequisites
 
@@ -32,5 +33,4 @@ clone this repo:
 
     run ionic serve from a terminal
     
-    
-the app under the [MIT License](https://opensource.org/licenses/MIT)
+   
