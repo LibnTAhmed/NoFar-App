@@ -22,10 +22,11 @@ You need to have the following tools installed globally on you machine:
 
  - ionic preview-App
 
-clone this repo: git clone https://github.com/ionic-team/ionic-preview-app.git
+clone this repo:
+ git clone https://github.com/ionic-team/ionic-preview-app.git
 
-cd ionic-preview-app
+    cd ionic-preview-app
 
-npm install
+    npm install
 
-run ionic serve from a terminal
+    run ionic serve from a terminal
