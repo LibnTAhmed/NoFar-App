@@ -23,6 +23,7 @@ You need to have the following tools installed globally on you machine:
  - ionic preview-App
 
 clone this repo:
+
  git clone https://github.com/ionic-team/ionic-preview-app.git
 
     cd ionic-preview-app
@@ -30,3 +31,6 @@ clone this repo:
     npm install
 
     run ionic serve from a terminal
+    
+    
+the app under the [MIT License](https://opensource.org/licenses/MIT)
